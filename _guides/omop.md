@@ -32,15 +32,15 @@ After receiving the design of the ETL with the complete code mappings, a technic
 #### Quality Control 
 Finally quality control is essential especially in a medical context, therefore everyone is involved in ensuring there is good quality control throughout the design process. Tools such as Achilles, and Achilles heal are useful for spotting abnormal data inputs and data distributions and hence alerting the designers of data-quality issues.
 
-### How can it be used within the NHS?
+### The potential of OMOP within the NHS
 OMOP has the potential to revolutionise decision making and healthcare research within the NHS. It would facilitate the standardisation of healthcare data providing a unified data model that allows all healthcare data sources within the NHS to be accumulated and mapped onto a common format. This will enable researchers to analyse and compare data from multiple sources with more ease and on a larger scale leading to valuable insights being made to inform clinical decision making, drive evidence-based policies as well as allowing for a more collaborative style of research within the NHS. Secondly, the standardisation of data will increase data quality and data sharing capabilities, laying the foundations for a robust healthcare system.
 
 In addition, OMOP could be used within the NHS to create large scale patient databases with real-time treatment patterns and outcomes. OMOP's data analytics capabilities also enable the identification of patient subgroups based on shared characteristics, such as genetic predispositions or response patterns to treatments. This stratification can help identify patient populations who are more likely to benefit from specific therapies, allowing for more personalised and effective healthcare approaches.
 
-### The benefits over other CDMs 
+### The benefits of OMOP over other CDMs 
 OMOP provides a standardised, open-source data model that allows for the integration of diverse healthcare data sources. This standardisation ensures that data from various systems, institutions, and countries can be easily mapped and harmonised, promoting interoperability. Common data models often lack this level of standardisation, leading to challenges when attempting to combine data from different sources. Whereas, whilst some common data models support large-scale analytics, they may not be specifically tailored for observational research. This limitation can restrict researchers from conducting population-level studies efficiently and may require additional efforts to achieve comparable results
  
-### Resistance against the use of OMOP
+### Adoption and Implementation of OMOP
 - Larger healthcare companies often have significant investments in their existing proprietary systems, data formats, and medical devices. Adopting OMOP or any other standardised data model would require significant resources and efforts for data transformation, staff training, and system updates. They may resist these changes due to the perceived costs and efforts involved.
 - Big healthcare organisations might be concerned about losing control over their data if they adopt a standardised data model like OMOP. Proprietary data formats may provide them with more control over how data is structured, stored, and accessed, whereas a standardised model could limit their autonomy over data management.
 - Big healthcare organisations often operate on complex and diverse IT systems, and switching to a new data model like OMOP might create compatibility and integration challenges. They may fear disruptions to their existing workflows and operations during the transition.
